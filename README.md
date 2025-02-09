@@ -18,7 +18,6 @@ The goal of SentinelX is to create a modular and extensible system that demonstr
 
 - **Python 3.10+**
 - **OpenCV:** For video capture and image processing.  
-  ([Learn more about OpenCV](https://opencv.org/) :contentReference[oaicite:0]{index=0})
-- **Deep Learning Frameworks (Optional):** TensorFlow or PyTorch for object detection.
+- **Deep Learning Frameworks:** TensorFlow or PyTorch for object detection.
 - **Flask (Optional):** For creating a web dashboard or handling API endpoints.
 - **Alert APIs:** SMTP for email alerts or services like Twilio for SMS notifications.
